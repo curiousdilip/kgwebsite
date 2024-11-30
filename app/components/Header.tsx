@@ -66,102 +66,120 @@ export default function Header() {
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      className="dropdown-item"
+                      href="/rituals/monjhaer-taher"
+                    >
                       Monjaher Taehar
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/gada-bhatta">
                       Gada Bhatta
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      className="dropdown-item"
+                      href="/rituals/khyachi-mavas"
+                    >
                       Khyachi Mavas
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/shishur">
                       Shishur
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/gora-trai">
                       Gora Trai
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/kaw-punim">
                       Kaw Punim
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      className="dropdown-item"
+                      href="/rituals/teela-aetham"
+                    >
                       Teela Aetham
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      className="dropdown-item"
+                      href="/rituals/zetha-aetham"
+                    >
                       Zetha Aetham
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      className="dropdown-item"
+                      href="/rituals/shravana-punim"
+                    >
                       Sharavana Punim
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      className="dropdown-item"
+                      href="/rituals/vyatha-truvah"
+                    >
                       Vyatha Truvah
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/hara-satam">
                       Hara Satam
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/pan-dyun">
                       Pan Dyun
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/diyagone">
                       Divagone
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/posh-puza">
                       Posh Puza
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/sonder">
                       Sonder
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/navreh">
                       Navreh
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/sonth">
                       Sonth
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/zang-trai">
                       Zang Trai
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/shivaratri">
                       Shivaratri
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link className="dropdown-item" href="/rituals/jaat-karma">
                       Jaat Karma
                     </Link>
                   </li>
@@ -179,300 +197,98 @@ export default function Header() {
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/divgon-boy.pdf"
+                    >
                       Divgon (Boy)
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/divgon-girl.pdf"
+                    >
                       Divgon (Girl)
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/divgon-boy.pdf"
+                    >
                       Lagan (Boy)
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/divgon-girl.pdf"
+                    >
                       Lagan (Girl)
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/kahnetar.pdf"
+                    >
                       Kahnetar
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/navgrah.pdf"
+                    >
                       Navgrah Path
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/yognopaveet.pdf"
+                    >
                       Yagnopaveet
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/hawan.pdf"
+                    >
                       Hawan
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/grahpravesh.pdf"
+                    >
                       GrahPravesh
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/agnivatri-list/shank.pdf"
+                    >
                       Shank Pratishtha
                     </Link>
                   </li>
                 </ul>
               </li>
-              <li className="nav-item dropdown">
-                <Link
-                  className="nav-link dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Muhurats
-                </Link>
-                <ul className="dropdown-menu">
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Saath Ratun
-                    </Link>
-                  </li>
 
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Yagnopaveet
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Ring Ceremony
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Vivaah/Marriage
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Grih Pravesh
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Choodakarma/Mundan
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Jaat Karma
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Divakshir
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Buting House/Land
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Shishur
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Deepdan
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Pandun
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Anna Prashan
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Anna Prashan
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      New Vechile
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      New Business
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Sarvarth Sidhi Yog
-                    </Link>
-                  </li>
-                </ul>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" href="/matrimonials">
-                  Matrimonials
-                </Link>
-              </li>
-              <li className="nav-item dropdown">
-                <Link
-                  className="nav-link dropdown-toggle"
-                  href="#"
-                  role="button"
-                  data-bs-toggle="dropdown"
-                  aria-expanded="false"
-                >
-                  Hindu Calender
-                </Link>
-                <ul className="dropdown-menu">
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Festival/Fasting Days
-                    </Link>
-                  </li>
-
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Chaitra Shukla Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Vaishakh Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Vaishakh Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Jyeshtha Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Jyeshtha Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Ashadha Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Ashadha Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Shravan Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Shravan Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Bhadra Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Bhadra Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Ashwin Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Ashwin Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Kartik Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Kartik Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Maarg Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Maarg Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Paush Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Paush Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Maagh Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Maagh Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Phalgun Krishna Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Phalgun Shula Paksha
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
-                      Chaitra Krishna Paksha
-                    </Link>
-                  </li>
-                </ul>
-              </li>
               <li className="nav-item">
                 <Link className="nav-link" href="/janmapatrika">
                   Janmapatrika
@@ -490,63 +306,102 @@ export default function Header() {
                 </Link>
                 <ul className="dropdown-menu">
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/shraadh.pdf"
+                    >
                       About Shraadh
                     </Link>
                   </li>
 
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/Antim_Sanskar.pdf"
+                    >
                       Antim Sanskaar List
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/10.pdf"
+                    >
                       10th Day
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
-                      Lagan
-                    </Link>
-                  </li>
-                  <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/11.pdf"
+                    >
                       10th & 12th Day
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/shadmos.pdf"
+                    >
                       Shadmos
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/varshik.pdf"
+                    >
                       Varshik (Varhvar)
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/deepdan.pdf"
+                    >
                       Deepdan
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/Yearly_Shraad.pdf"
+                    >
                       Yearly Shraadh
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/Kumbh_Mantra.pdf"
+                    >
                       Kumbh Mantra
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/Pitra_Tarpan.pdf"
+                    >
                       Pitra Tarpan
                     </Link>
                   </li>
                   <li>
-                    <Link className="dropdown-item" href="#">
+                    <Link
+                      target="_blank"
+                      className="dropdown-item"
+                      href="/shraadh/Pitra_Paksha.pdf"
+                    >
                       Pitra Paksha
                     </Link>
                   </li>
@@ -554,17 +409,12 @@ export default function Header() {
               </li>
 
               <li className="nav-item">
-                <Link className="nav-link" href="#">
+                <Link className="nav-link" href="/palmistry">
                   Palmistry
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" href="#">
-                  Publications
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" href="#">
+                <Link className="nav-link" href="/contact">
                   Contact Us
                 </Link>
               </li>
